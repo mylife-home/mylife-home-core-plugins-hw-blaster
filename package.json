@@ -1,0 +1,21 @@
+{
+  "name": "mylife-home-core-plugins-hw-blaster",
+  "version": "0.0.1",
+  "description": "Mylife Home Core Plugin: HW pi-blaster",
+  "main": "index.js",
+  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-blaster",
+  "author": "Vincent Trumpff",
+  "dependencies": {
+    "async": "*",
+    "log4js": "*",
+    "pi-blaster.js": "*"
+  },
+  "devDependencies": {
+    "chai": "*",
+    "jshint": "*",
+    "mocha": "*"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.js"
+  }
+}
