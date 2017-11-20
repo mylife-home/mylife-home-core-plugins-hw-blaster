@@ -6,8 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-blaster",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "async": "*",
-    "log4js": "*",
     "pi-blaster.js": "*"
   },
   "devDependencies": {
